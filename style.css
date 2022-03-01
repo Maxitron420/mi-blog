@@ -1,0 +1,70 @@
+
+.travel_mainDiv
+{
+    background-color: rgb(20, 224, 146);
+    border: 1px solid rgb(7, 240, 150);
+}
+
+.travel_mainDiv img
+{
+    background-color: rgb(20, 224, 146);
+  width: 100%;
+
+}
+
+.travel_mainDiv h4
+{
+    font-size: 50px
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p 
+{
+    background-color: rgb(20, 224, 146);
+margin: 20px;
+font-size: 35px;
+}
+
+
+.movie_head
+{
+    background-color: rgb(20, 224, 146);
+    font-size: 100px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+    background-color: rgb(20, 224, 146);
+float: right;
+}
+
+.movie_text span
+{
+    background-color: rgb(20, 224, 146);
+color: orange;
+}
+
+
+.book 
+{
+    background-color: rgb(20, 224, 146);
+    margin-bottom: 20px;
+}
+
+#contact iframe.movie_head
+{
+    background-color: rgb(20, 224, 146);
+    width: 100%;
+}
+.collapse navbar-collapse
+{ 
+    background-color: rgb(20, 224, 146);
+    font-size: 100px;
+}
+.contact_1 h5 
+{
+font-size: 50px;
+background-color: rgb(20, 224, 146);
+}
